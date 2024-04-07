@@ -7,7 +7,7 @@ These Jupyter notebooks comprise the practical exercises for Chapter 13
 
 *CNNdifferentArch.ipynb* - test for the different approach from the internet with the Dence layers
 
-*50classesTry.ipynb* - a try to make good enough CNN without a transfer learning for the 40 class problem.
+*40classesTry.ipynb* - a try to make good enough CNN without a transfer learning for the 40 class problem.
 
 ### How to follow 40classTry:
 1) go to the https://www.kaggle.com/datasets/gpiosenka/car-parts-40-classes/data
